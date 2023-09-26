@@ -63,7 +63,7 @@ body {
 
 .selected-item p {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   font-size: 2.5em;
 }
 
